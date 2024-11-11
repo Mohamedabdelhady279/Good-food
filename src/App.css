@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+
+.mytitle h2{
+    font-weight: 900;
+}
